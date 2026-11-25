@@ -1,6 +1,6 @@
 # numerical-methods-cpp
 
-Numerical methods in C++.
+Core numerical methods in C++.
 
 ## Files
 
